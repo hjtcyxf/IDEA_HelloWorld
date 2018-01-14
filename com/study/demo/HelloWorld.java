@@ -1,9 +1,7 @@
-public class Main {
+package com.study.demo;
 
+public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        if (1 == 1) {
-
-        }
     }
 }
